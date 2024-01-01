@@ -10,7 +10,7 @@ from openai.embeddings_utils import get_embedding
 from streamlit_chat import message
 
 
-openai.api_key = "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"
+openai.api_key = "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"
 
 folder_path = './data'
 file_name = 'embedding.csv'
